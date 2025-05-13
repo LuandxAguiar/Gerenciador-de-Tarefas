@@ -20,7 +20,7 @@ A API permite criar, editar, deletar, alocar e consultar tarefas e pessoas, alé
 ## 🛠️ Como Rodar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/LuandxAguiar/Gerenciador-de-Tarefas.git
+   git clone https://github.com/LuandxAguiar/Gerenciador-de-Tarefas.git
 2 .Configure o banco de dados PostgreSQL:
   ° Crie um banco chamado gerenciadorTarefa
   ° Usuário padrão: postgres
